@@ -1,5 +1,6 @@
 # nostr-access
-Where Nostr Service is unavailable | #restriction #geoblocking #451 #vpn 
+
+Where Nostr and LN (lightning network) services are unavailable | #restriction #geoblocking #451 #vpn
 
 | Domain | About | URL | Sanctioned jurisdictions |
 |---|---|---|---|
